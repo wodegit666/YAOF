@@ -10,7 +10,7 @@
 <p>
 <p align="center">
 <img src="https://github.com/QiuSimons/YAOF/workflows/R2C-OpenWrt/badge.svg">
-<img src="https://github.com/QiuSimons/YAOF/workflows/R2S-OpenWrt/badge.svg">
+<img src="https://github.com/wodegit666/YAOF/workflows/R2S-OpenWrt/badge.svg">
 <img src="https://github.com/QiuSimons/YAOF/workflows/R4S-OpenWrt/badge.svg">
 <img src="https://github.com/QiuSimons/YAOF/workflows/X86-OpenWrt/badge.svg">
 <p>
